@@ -10,7 +10,7 @@ const connectionString = "mongodb://ritwick80:ritwick123@cluster0-shard-00-00-rl
 
 mongoose.connect(connectionString, { useNewUrlParser: true })
     .then(function() {
-        console.log("MongoDB Connected!");
+        console.log("MongoDB Connected");
     })
     .catch(function(err) {
         console.log(err);
