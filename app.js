@@ -2,8 +2,8 @@
 let var1 = 85;
 
 let bddaData = {
-	name: "Ritwick",
-	age: 20,
+	name: "Aakash",
+	age: 21,
 	dept: "cse"
 }
 
