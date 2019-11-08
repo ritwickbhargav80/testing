@@ -8,11 +8,11 @@
  3. npm init
 	 Enter the project details that follows.
  * For Window Users:
-	 4. echo.>app.js
+	 4. echo.>index.js
  * For Linux Users:
-	 4. touch app.js
-5. Write server code in app.js file as given.
+	 4. touch index.js
+5. Write server code in index.js file as given.
 
 > Start server
-6. node app.js
+6. node index.js
 
